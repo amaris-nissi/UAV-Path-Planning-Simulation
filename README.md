@@ -39,6 +39,6 @@ The project is divided into two versions: MATLAB and C++. Each version is contai
 
 ## References
 
-[1] Todd E. Humphreys, *Aerial Robotics Course Notes for ASE 479W,* The University of Texas at Austin, 2022.
-[2] Tucker Haydon and Todd Humphreys, *Piecewise Polynomial Path Planning (P4).* Radionavigation Lab, 2020.
-[3] Peter E. Hart, *A Formal Basis for the Heuristic Determination of Minimum Cost Paths,* IEEE Transactions of Systems Science and Cybernetics, No. 2, 1968.
+1. Todd E. Humphreys, *Aerial Robotics Course Notes for ASE 479W,* The University of Texas at Austin, 2022.
+2. Tucker Haydon and Todd Humphreys, *Piecewise Polynomial Path Planning (P4).* Radionavigation Lab, 2020.
+3. Peter E. Hart, *A Formal Basis for the Heuristic Determination of Minimum Cost Paths,* IEEE Transactions of Systems Science and Cybernetics, No. 2, 1968.
